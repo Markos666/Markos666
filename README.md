@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Markos666
 - 👀 I’m interested in learning anything
-- 🌱 I’m currently learning Python
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: noway
 - 😄 Pronouns: ...
